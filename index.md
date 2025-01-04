@@ -19,15 +19,15 @@ If you have any questions, please feel free to [reach out](mailto:chingycheng327
 ## Recent News
 last updated: Jan 4th, 2024
 
-- The research project I led during my master’s program, [Leveraging dynamics informed neural networks for predictive modeling of COVID-19 spread: A hybrid SEIRV-DNNs approach](https://www.nature.com/srep/), has been accepted for publication in the Scientific Reports.
+- The research project I led during my master’s program, [Leveraging dynamics informed neural networks for predictive modeling of COVID-19 spread: A hybrid SEIRV-DNNs approach](https://www.nature.com/srep/), has been accepted for the **Scientific Reports**.
 
 
-- The research project I led during my undergraduate studies, [Retrospective analysis of estimated serial interval and reproductive number of SARS-CoV-2 Omicron variant in Korea](https://advancesincontinuousanddiscretemodels.springeropen.com/), has been accepted for publication in the Advances in Continuous and Discrete Models.
+- The research project I led during my undergraduate studies, [Retrospective analysis of estimated serial interval and reproductive number of SARS-CoV-2 Omicron variant in Korea](https://advancesincontinuousanddiscretemodels.springeropen.com/), has been accepted for the **Advances in Continuous and Discrete Models**.
 
-- The research project I participated in during my winter vacation [ Prediction of World Temperature Based on PSO Optimized LSTM Neural Network](https://ieeexplore.ieee.org/document/10165253)  has been published on the ICIBA2023.
+- The research project I participated in during my winter vacation [ Prediction of World Temperature Based on PSO Optimized LSTM Neural Network](https://ieeexplore.ieee.org/document/10165253)  has been published on the **ICIBA2023**.
 
-- The research project I participated in my Sophomore summer [Research on seismic discrimination based on particle swarm optimization generalized regression neural network and HHT sample entropy](http://en.dzkx.org/article/doi/10.6038/pg2022FF0438)  has been published on the Progress in Geophysics.
-- The research project I participated in my Sophomore summer [Research on Identification of Seismic Event Properties Based on Least Squares Support Vector Machine and Entropy Feature](https://kns.cnki.net/kcms/detail/detail.aspx?doi=10.14075/j.jgg.2022.06.019) has been published on the Journal of Geodesy and Geodynamics.
+- The research project I participated in my Sophomore summer [Research on seismic discrimination based on particle swarm optimization generalized regression neural network and HHT sample entropy](http://en.dzkx.org/article/doi/10.6038/pg2022FF0438)  has been published on the **Progress in Geophysics**.
+- The research project I participated in my Sophomore summer [Research on Identification of Seismic Event Properties Based on Least Squares Support Vector Machine and Entropy Feature](https://kns.cnki.net/kcms/detail/detail.aspx?doi=10.14075/j.jgg.2022.06.019) has been published on the **Journal of Geodesy and Geodynamics**.
 - Our work [Decision-making platform for mine microseismic monitoring network layout plan based on TOPSIS and ZedGraph graphic controls](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=SYXZ202203001&uniplatform=NZKPT&v=WQLhOUsEE2Ny13mKBzFFTg1MH4UfiBiMihiJSvVAzbPdTDJxVhDcT2K3elAZkcIw) is accepted!
 
 ## Visitors
