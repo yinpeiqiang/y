@@ -13,12 +13,7 @@ I’m ChiEnn (Cheng) Cheng, an AI researcher with a deep interest in Computation
 
 Currently, I'm pursuing a Master of Science in Mathematics and Statistics at the Institute of Mathematical Sciences, University of Malaya. My academic journey involves extensive research in data analysis and biomathematics, particularly exploring the potential of deep learning in these fields. My early research includes significant work on earthquake data during my sophomore year. For a more detailed overview of my work, please visit my [Research page](/_pages/research.md)
 
-**I am actively seeking PhD positions for Fall 2025 or Spring 2026 intake.** If my research interests align with yours, or if you have opportunities that fit my background, I would love to connect!
-
-
-
-If you'd like to get in contact with me, simply email me at [chingycheng327 at gmail dot com](mailto:chingycheng327@gmail.com).
-
+**I am actively seeking PhD positions for Fall 2025 or Spring 2026 intake.** If my research interests align with yours, or if you have opportunities that fit my background, I would love to connect! If you have any questions, please feel free to contact me. I believe communication is the foundation of academic progress.  You can reach me at [chingycheng327 at gmail dot com](mailto:chingycheng327@gmail.com).
 ## Recent News
 last updated: Jan 4th, 2024
 
