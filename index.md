@@ -9,7 +9,7 @@ permalink: /
 
 Hi there! Welcome to my home page. 
 
-I’m ChiEnn (Cheng) Cheng, an AI researcher with a deep interest in Computational Epidemiology. My work focuses on integrating deep learning techniques with infectious disease modeling to contribute to the prevention and control of infectious diseases.
+I’m  Cheng (ChiEnn) Cheng, an AI researcher with a deep interest in Computational Epidemiology. My work focuses on integrating deep learning techniques with infectious disease modeling to contribute to the prevention and control of infectious diseases.
 
 Currently, I'm pursuing a Master of Science in Mathematics and Statistics at the Institute of Mathematical Sciences, University of Malaya. My academic journey involves extensive research in data analysis and biomathematics, particularly exploring the potential of deep learning in these fields. My early research includes significant work on earthquake data during my sophomore year. For a more detailed overview of my work, please visit my [Research page](/_pages/research.md)
 
