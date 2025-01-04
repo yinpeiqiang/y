@@ -3,7 +3,7 @@ title: "Research"
 layout: splash
 permalink: /research/
 ---
-I am deeply interested in Computational epidemiology. I believe that machine learning and deep learning offer a robust framework for the biomathematical processing of data. Currently, my research is focused on computational epidemiology, an essential field in today's scientific inquiry. As a Master of Mathematics (Research) student at the University of Malaya, I am using Deep Learning methods to solve infectious diseases under the guidance of [Dr. Muhamad Hifzhudin](https://umexpert.um.edu.my/hifz_din) and [Dr. Elayaraja Aruchunan](https://umexpert.um.edu.my/elayarajah). My bachelor supervisor is Professor [Xiaomei Feng](https://www.researchgate.net/profile/Xiaomei-Feng-2). Please refer to my selected works below for more insight into my research.
+I am deeply interested in Computational epidemiology. I believe that machine learning and deep learning offer a robust framework for the biomathematical processing of data. Currently, my research is focused on computational epidemiology, an essential field in today's scientific inquiry. As a Master of Mathematics (Research) student at the University of Malaya, I am using Deep Learning methods to solve infectious diseases under the guidance of [Dr. Muhamad Hifzhudin](https://umexpert.um.edu.my/hifz_din) and [Dr. Elayaraja Aruchunan](https://umexpert.um.edu.my/elayarajah). My bachelor supervisor is Professor [Xiaomei Feng](https://lxy.xust.edu.cn/info/1129/3255.htm). Please refer to my selected works below for more insight into my research.
 
 
 [Google Scholar]( https://scholar.google.com.my/citations?hl=en&user=-_xoqYAAAAAJ) \|
@@ -69,7 +69,7 @@ I am deeply interested in Computational epidemiology. I believe that machine lea
           <br>
           <em>Journal of Geodesy and Geodynamics</em>, 2022.
           <br>
-          [<a href="https://kns.cnki.net/kcms/detail/detail.aspx?filename=DKXB202206019&dbcode=CJFQ&dbname=CJFD2022&v=hSWFAhoAtBnSMk_gu_PeVuzDZ5rmBMqy4-ktNhinxiOOUSS9J4qGLfr81ma2aKIi" target="_blank" rel="noopener noreferrer">CNKI</a>]
+          [<a href=" http://www.jgg09.com/EN/Y2022/V42/I6/655" target="_blank" rel="noopener noreferrer"> Journal of Geodesy and Geodynamics</a>]
           <br>
           <p>Based on a total of 500 waveform data such as earthquake events and artificial blasting interference events in 2021, a number of random sampling sub-experiments with different training ratios and test ratios were designed, and the accuracy, recall, special effect, precision, and F-measure were used to verify the validity of the model.<br>
           </p>
@@ -100,7 +100,7 @@ I am deeply interested in Computational epidemiology. I believe that machine lea
           <br>
           <em>Progress in Geophysics</em>, 2022.
           <br>
-          [<a href="https://kns.cnki.net/kcms/detail/detail.aspx?filename=DQWJ2022031500J&dbcode=DKFX&dbname=DKFX2022&v=S8LCx_iKxHZwzIf37irYxfUIXBeHlC8GhgF9dyL40h0xJzBSgRmLQLKhUX59xYaP" target="_blank" rel="noopener noreferrer">CNKI</a>]
+          [<a href=" http://en.dzkx.org/article/doi/10.6038/pg2022FF0438" target="_blank" rel="noopener noreferrer">Progress in Geophysics </a>]
 <!--               [<a href="../pdfs/posters/optre_rldm_poster.pdf">poster</a>]
           [<a href="https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7adfa2ab-3dde-46ab-b69e-aea800efe5ef">talk at RLDM</a> at 1:20:00] -->
           <br>
