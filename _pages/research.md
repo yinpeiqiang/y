@@ -3,7 +3,7 @@ title: "Research"
 layout: splash
 permalink: /research/
 ---
-I am deeply interested in Computational epidemiology. I believe that machine learning and deep learning offer a robust framework for the biomathematical processing of data. Currently, my research is focused on computational epidemiology, an essential field in today's scientific inquiry. As a Master of Mathematics (Research) student at the University of Malaya, I am using Deep Learning methods to solve infectious diseases under the guidance of [Dr. Muhamad Hifzhudin](https://umexpert.um.edu.my/hifz_din) and [Dr. Elayaraja Aruchunan](https://umexpert.um.edu.my/elayarajah). My bachelor supervisor is  [Professor Xiaomei Feng](https://lxy.xust.edu.cn/info/1129/3255.htm). Please refer to my selected works below for more insight into my research.
+I am deeply interested in Computational epidemiology. I believe that machine learning and deep learning offer a robust framework for the biomathematical processing of data. My long-term goal is to develop methods for learning infectious disease equations directly from data.  Currently, my research is focused on computational epidemiology, an essential field in today's scientific inquiry. As a Master of Mathematics (Research) student at the University of Malaya, I am using Deep Learning methods to solve infectious diseases under the guidance of [Dr. Muhamad Hifzhudin](https://umexpert.um.edu.my/hifz_din) and [Dr. Elayaraja Aruchunan](https://umexpert.um.edu.my/elayarajah). My undergraduate supervisor is  [Professor Xiaomei Feng](https://lxy.xust.edu.cn/info/1129/3255.htm). Please refer to my selected works below for more insight into my research.
 
 
 [Google Scholar]( https://scholar.google.com.my/citations?hl=en&user=-_xoqYAAAAAJ) \|
