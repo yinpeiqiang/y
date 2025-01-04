@@ -15,6 +15,72 @@ I am deeply interested in Computational epidemiology. I believe that machine lea
 <link rel="stylesheet" href="/assets/css/styles.css">
 ## Publications
 ### Journal
+
+<!-- New Publication: Leveraging DINNs for Predictive Modeling of COVID-19 Spread -->
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+    <tbody>
+      <tr>
+        <td style="padding:20px;width:25%;vertical-align:middle">
+          <div>
+            <!-- Updated Image Path -->
+            <img src='/images/DINNs.jpg' width="160">
+          </div>
+        </td>
+        <td style="padding:20px;width:75%;vertical-align:middle">
+          <p style="font-family:'Lato',Verdana,Helvetica,sans-serif; font-size:14px;font-weight:700">
+            Leveraging DINNs for Predictive Modeling of COVID-19 Spread: A Hybrid SEIRV-DNNs Approach
+          </p>
+          <div class="skills">
+            <span class="skill">DNN</span>
+            <span class="skill">SEIRV</span>
+            <span class="skill">DINNs</span>
+          </div>
+          <strong>Cheng Cheng</strong>, Elayaraja Aruchunan, and Muhamad Hifzhudin Bin Noor Aziz
+          <br>
+          <em>Scientific Reports (Accepted)</em>, December 2023 – December 2024.
+          <br>
+          [<a href="https://www.nature.com/srep/" target="_blank" rel="noopener noreferrer">Scientific Reports</a>]
+          <br>
+          <p>
+            Developed a DINNs model that integrates the SEIRV compartment model into deep learning frameworks. This approach enhances traditional epidemic models by incorporating data-driven techniques.<br>
+            Applied the DINNs model to real-world data, demonstrating its effectiveness in fitting multiple epidemic waves and predicting future trends.
+          </p>
+        </td>
+      </tr>
+    </tbody>
+</table> 
+
+<!-- New Publication: Estimated Serial Interval and Reproduction Number of SARS-CoV-2 Omicron Variant -->
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+    <tbody>
+      <tr>
+        <td style="padding:20px;width:25%;vertical-align:middle">
+          <div>
+            <!-- Updated Image Path -->
+            <img src='/images/Serial Interval.jpg' width="160">
+          </div>
+        </td>
+        <td style="padding:20px;width:75%;vertical-align:middle">
+          <p style="font-family:'Lato',Verdana,Helvetica,sans-serif; font-size:14px;font-weight:700">
+            Estimated Serial Interval and Reproduction Number of SARS-CoV-2 Omicron Variant
+          </p>
+          <div class="skills">
+            <span class="skill">Serial Interval</span>
+            <span class="skill">R<sub>0</sub></span>
+          </div>
+          Chunjuan Zhu, <strong>Cheng Cheng</strong>, Xiaomei Feng
+          <br>
+          <em>Advances in Continuous and Discrete Models (Accepted)</em>, December 2023 – November 2024.
+          <br>
+          [<a href="https://advancesincontinuousanddiscretemodels.springeropen.com/" target="_blank" rel="noopener noreferrer">Advances in Continuous and Discrete Models</a>]
+          <br>
+          <p>
+        Demonstrated strong data analysis skills through statistical analysis of Omicron transmission potential, utilizing Python and R for data collection, cleaning, and analysis, and providing recommendations for control measures in a research paper.
+          </p>
+        </td>
+      </tr>
+    </tbody>
+</table> 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
     <tbody>
       <!-- Existing Publication 1 -->
@@ -111,71 +177,6 @@ I am deeply interested in Computational epidemiology. I believe that machine lea
     </tbody>
 </table> 
 
-<!-- New Publication: Leveraging DINNs for Predictive Modeling of COVID-19 Spread -->
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-    <tbody>
-      <tr>
-        <td style="padding:20px;width:25%;vertical-align:middle">
-          <div>
-            <!-- Updated Image Path -->
-            <img src='/images/DINNs.jpg' width="160">
-          </div>
-        </td>
-        <td style="padding:20px;width:75%;vertical-align:middle">
-          <p style="font-family:'Lato',Verdana,Helvetica,sans-serif; font-size:14px;font-weight:700">
-            Leveraging DINNs for Predictive Modeling of COVID-19 Spread: A Hybrid SEIRV-DNNs Approach
-          </p>
-          <div class="skills">
-            <span class="skill">DNN</span>
-            <span class="skill">SEIRV</span>
-            <span class="skill">DINNs</span>
-          </div>
-          <strong>Cheng Cheng</strong>, Elayaraja Aruchunan, and Muhamad Hifzhudin Bin Noor Aziz
-          <br>
-          <em>Scientific Reports (Accepted)</em>, December 2023 – December 2024.
-          <br>
-          [<a href="https://www.nature.com/srep/" target="_blank" rel="noopener noreferrer">Scientific Reports</a>]
-          <br>
-          <p>
-            • Developed a DINNs model that integrates the SEIRV compartment model into deep learning frameworks. This approach enhances traditional epidemic models by incorporating data-driven techniques.<br>
-            • Applied the DINNs model to real-world data, demonstrating its effectiveness in fitting multiple epidemic waves and predicting future trends.
-          </p>
-        </td>
-      </tr>
-    </tbody>
-</table> 
-
-<!-- New Publication: Estimated Serial Interval and Reproduction Number of SARS-CoV-2 Omicron Variant -->
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-    <tbody>
-      <tr>
-        <td style="padding:20px;width:25%;vertical-align:middle">
-          <div>
-            <!-- Updated Image Path -->
-            <img src='/images/Serial Interval.jpg' width="160">
-          </div>
-        </td>
-        <td style="padding:20px;width:75%;vertical-align:middle">
-          <p style="font-family:'Lato',Verdana,Helvetica,sans-serif; font-size:14px;font-weight:700">
-            Estimated Serial Interval and Reproduction Number of SARS-CoV-2 Omicron Variant
-          </p>
-          <div class="skills">
-            <span class="skill">Serial Interval</span>
-            <span class="skill">R<sub>0</sub></span>
-          </div>
-          Chunjuan Zhu, <strong>Cheng Cheng</strong>, Xiaomei Feng
-          <br>
-          <em>Advances in Continuous and Discrete Models (Accepted)</em>, December 2023 – November 2024.
-          <br>
-          [<a href="https://advancesincontinuousanddiscretemodels.springeropen.com/" target="_blank" rel="noopener noreferrer">Advances in Continuous and Discrete Models</a>]
-          <br>
-          <p>
-            • Demonstrated strong data analysis skills through statistical analysis of Omicron transmission potential, utilizing Python and R for data collection, cleaning, and analysis, and providing recommendations for control measures in a research paper.
-          </p>
-        </td>
-      </tr>
-    </tbody>
-</table> 
 
 ### School Journal
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
