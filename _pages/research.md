@@ -28,7 +28,7 @@ I am deeply interested in Computational epidemiology. I believe that machine lea
         </td>
         <td style="padding:20px;width:75%;vertical-align:middle">
           <p style="font-family:'Lato',Verdana,Helvetica,sans-serif; font-size:14px;font-weight:700">
-            Leveraging DINNs for Predictive Modeling of COVID-19 Spread: A Hybrid SEIRV-DNNs Approach
+            Leveraging dynamics informed neural networks for predictive modeling of COVID-19 spread: A hybrid SEIRV-DNNs approach
           </p>
           <div class="skills">
             <span class="skill">DNN</span>
@@ -62,7 +62,7 @@ I am deeply interested in Computational epidemiology. I believe that machine lea
         </td>
         <td style="padding:20px;width:75%;vertical-align:middle">
           <p style="font-family:'Lato',Verdana,Helvetica,sans-serif; font-size:14px;font-weight:700">
-            Estimated Serial Interval and Reproduction Number of SARS-CoV-2 Omicron Variant
+           Retrospective analysis of estimated serial interval and reproductive number of SARS-CoV-2 Omicron variant in Korea
           </p>
           <div class="skills">
             <span class="skill">Serial Interval</span>
