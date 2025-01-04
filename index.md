@@ -21,10 +21,10 @@ If you'd like to get in contact with me, simply email me at [chingycheng327 at g
 ## Recent News
 last updated: Jan 4th, 2024
 
-- The research project I led during my master’s program, [Leveraging dynamics informed neural networks for predictive modeling of COVID-19 spread: A hybrid SEIRV-DNNs approach], has been accepted for publication in the Scientific Reports.
+- The research project I led during my master’s program, [Leveraging dynamics informed neural networks for predictive modeling of COVID-19 spread: A hybrid SEIRV-DNNs approach](https://www.nature.com/srep/), has been accepted for publication in the Scientific Reports.
 
 
-- The research project I led during my undergraduate studies, [Retrospective analysis of estimated serial interval and reproductive number of SARS-CoV-2 Omicron variant in Korea], has been accepted for publication in the Advances in Continuous and Discrete Models.
+- The research project I led during my undergraduate studies, [Retrospective analysis of estimated serial interval and reproductive number of SARS-CoV-2 Omicron variant in Korea](https://advancesincontinuousanddiscretemodels.springeropen.com/), has been accepted for publication in the Advances in Continuous and Discrete Models.
 
 - The research project I participated in during my winter vacation [ Prediction of World Temperature Based on PSO Optimized LSTM Neural Network](https://ieeexplore.ieee.org/document/10165253)  has been published on the ICIBA2023.
 
