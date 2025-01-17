@@ -39,7 +39,7 @@ I am deeply interested in Computational epidemiology. I believe that machine lea
           <br>
           <em>Scientific Reports (Accepted)</em>, December 2023 – December 2024.
           <br>
-          [<a href="https://www.nature.com/srep/" target="_blank" rel="noopener noreferrer">Scientific Reports</a>]
+          [<a href="https://www.nature.com/articles/s41598-025-85440-1" target="_blank" rel="noopener noreferrer">Scientific Reports</a>]
           <br>
           <p>
             Developed a DINNs model that integrates the SEIRV compartment model into deep learning frameworks. This approach enhances traditional epidemic models by incorporating data-driven techniques.<br>
