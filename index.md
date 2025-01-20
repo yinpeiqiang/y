@@ -17,7 +17,7 @@ Currently, I'm pursuing a Master of Science in Mathematics and Statistics at the
 
 If you have any questions, please feel free to [reach out](mailto:chingycheng327@gmail.com) to me. I believe communication is the foundation of academic progress.
 ## Recent News
-last updated: Jan 15th, 2024
+last updated: Jan 15th, 2025
 
 - The research project I led during my master’s program, [Leveraging dynamics informed neural networks for predictive modeling of COVID-19 spread: A hybrid SEIRV-DNNs approach](https://www.nature.com/articles/s41598-025-85440-1), has been accepted for the **Scientific Reports**.
 
