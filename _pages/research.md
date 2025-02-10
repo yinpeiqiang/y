@@ -35,7 +35,7 @@ I am deeply interested in Computational epidemiology. I believe that machine lea
             <span class="skill">SEIRV</span>
             <span class="skill">DINNs</span>
           </div>
-          <strong>Cheng Cheng</strong>, Elayaraja Aruchunan, and Muhamad Hifzhudin Bin Noor Aziz
+          <strong>Cheng Cheng</strong>, Elayaraja Aruchunan & Muhamad Hifzhudin Bin Noor Aziz
           <br>
           <em>Scientific Reports (Accepted)</em>, December 2023 – January 2025.
           <br>
@@ -68,7 +68,7 @@ I am deeply interested in Computational epidemiology. I believe that machine lea
             <span class="skill">Serial Interval</span>
             <span class="skill">R<sub>0</sub></span>
           </div>
-          Chunjuan Zhu, <strong>Cheng Cheng</strong>, Xiaomei Feng
+          Chunjuan Zhu, <strong>Cheng Cheng</strong>, Jia Guo, Xiaomei Feng & Qiwen Sun 
           <br>
           <em>Advances in Continuous and Discrete Models (Accepted)</em>, December 2023 – February 2025.
           <br>
