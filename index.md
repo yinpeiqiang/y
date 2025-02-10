@@ -17,12 +17,12 @@ Currently, I'm pursuing a Master of Science in Mathematics and Statistics at the
 
 If you have any questions, please feel free to [reach out](mailto:chingycheng327@gmail.com) to me. I believe communication is the foundation of academic progress.
 ## Recent News
-last updated: Jan 15th, 2025
+last updated: Feb 10th, 2025
 
-- The research project I led during my master’s program, [Leveraging dynamics informed neural networks for predictive modeling of COVID-19 spread: A hybrid SEIRV-DNNs approach](https://www.nature.com/articles/s41598-025-85440-1), has been accepted for the **Scientific Reports**.
+- The research project I led during my master’s program, [Leveraging dynamics informed neural networks for predictive modeling of COVID-19 spread: A hybrid SEIRV-DNNs approach](https://www.nature.com/articles/s41598-025-85440-1), has been published for the **Scientific Reports**.
 
 
-- The research project I led during my undergraduate studies, [Retrospective analysis of estimated serial interval and reproductive number of SARS-CoV-2 Omicron variant in Korea](https://advancesincontinuousanddiscretemodels.springeropen.com/), has been accepted for the **Advances in Continuous and Discrete Models**.
+- The research project I led during my undergraduate studies, [Retrospective analysis of estimated serial interval and reproductive number of SARS-CoV-2 Omicron variant in Korea](https://advancesincontinuousanddiscretemodels.springeropen.com/articles/10.1186/s13662-025-03906-y), has been published for the **Advances in Continuous and Discrete Models**.
 
 - The research project I participated in during my winter vacation [ Prediction of World Temperature Based on PSO Optimized LSTM Neural Network](https://ieeexplore.ieee.org/document/10165253)  has been published on the **ICIBA2023**.
 
