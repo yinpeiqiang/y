@@ -3,7 +3,7 @@ title: "Research"
 layout: splash
 permalink: /research/
 ---
-I am deeply interested in Computational epidemiology. I believe that machine learning and deep learning offer a robust framework for the biomathematical processing of data. My long-term goal is to develop methods for learning infectious disease equations directly from data.  Currently, my research is focused on computational epidemiology, an essential field in today's scientific inquiry. As a Master of Mathematics (Research) student at the University of Malaya, I am using Deep Learning methods to solve infectious diseases under the guidance of [Dr. Muhamad Hifzhudin](https://umexpert.um.edu.my/hifz_din) and [Dr. Elayaraja Aruchunan](https://umexpert.um.edu.my/elayarajah). My undergraduate supervisor is  [Professor Xiaomei Feng](https://lxy.xust.edu.cn/info/1129/3255.htm). Please refer to my selected works below for more insight into my research.
+I am deeply interested in Computational epidemiology. I believe that machine learning and deep learning offer a robust framework for the biomathematical processing of data. My long-term goal is to develop methods for learning infectious disease equations directly from data.  Currently, my research is focused on computational epidemiology, an essential field in today's scientific inquiry. As a Master of Mathematics (Research) student at the University of Malaya, I am using Deep Learning methods to solve infectious diseases under the guidance of [Dr. Muhamad Hifzhudin](https://umexpert.um.edu.my/hifz_din) and [Dr. Elayaraja Aruchunan](https://umexpert.um.edu.my/elayarajah). My undergraduate supervisor is  [Prof. Xiaomei Feng](https://lxy.xust.edu.cn/info/1129/3255.htm). Please refer to my selected works below for more insight into my research.
 
 
 [Google Scholar]( https://scholar.google.com.my/citations?hl=en&user=-_xoqYAAAAAJ) \|
@@ -37,7 +37,7 @@ I am deeply interested in Computational epidemiology. I believe that machine lea
           </div>
           <strong>Cheng Cheng</strong>, Elayaraja Aruchunan, and Muhamad Hifzhudin Bin Noor Aziz
           <br>
-          <em>Scientific Reports (Accepted)</em>, December 2023 – December 2024.
+          <em>Scientific Reports (Accepted)</em>, December 2023 – January 2025.
           <br>
           [<a href="https://www.nature.com/articles/s41598-025-85440-1" target="_blank" rel="noopener noreferrer">Scientific Reports</a>]
           <br>
@@ -70,9 +70,9 @@ I am deeply interested in Computational epidemiology. I believe that machine lea
           </div>
           Chunjuan Zhu, <strong>Cheng Cheng</strong>, Xiaomei Feng
           <br>
-          <em>Advances in Continuous and Discrete Models (Accepted)</em>, December 2023 – November 2024.
+          <em>Advances in Continuous and Discrete Models (Accepted)</em>, December 2023 – February 2025.
           <br>
-          [<a href="https://advancesincontinuousanddiscretemodels.springeropen.com/" target="_blank" rel="noopener noreferrer">Advances in Continuous and Discrete Models</a>]
+          [<a href="https://advancesincontinuousanddiscretemodels.springeropen.com/articles/10.1186/s13662-025-03906-y" target="_blank" rel="noopener noreferrer">Advances in Continuous and Discrete Models</a>]
           <br>
           <p>
         Demonstrated strong data analysis skills through statistical analysis of Omicron transmission potential, utilizing Python and R for data collection, cleaning, and analysis, and providing recommendations for control measures in a research paper.
