@@ -37,7 +37,7 @@ I am deeply interested in Computational epidemiology. I believe that machine lea
           </div>
           <strong>Cheng Cheng</strong>, Elayaraja Aruchunan & Muhamad Hifzhudin Bin Noor Aziz
           <br>
-          <em>Scientific Reports (Accepted)</em>, December 2023 – January 2025.
+          <em>Scientific Reports</em>, December 2023 – January 2025.
           <br>
           [<a href="https://www.nature.com/articles/s41598-025-85440-1" target="_blank" rel="noopener noreferrer">Scientific Reports</a>]
           <br>
@@ -70,7 +70,7 @@ I am deeply interested in Computational epidemiology. I believe that machine lea
           </div>
           Chunjuan Zhu, <strong>Cheng Cheng</strong>, Jia Guo, Xiaomei Feng & Qiwen Sun 
           <br>
-          <em>Advances in Continuous and Discrete Models (Accepted)</em>, December 2023 – February 2025.
+          <em>Advances in Continuous and Discrete Models</em>, December 2023 – February 2025.
           <br>
           [<a href="https://advancesincontinuousanddiscretemodels.springeropen.com/articles/10.1186/s13662-025-03906-y" target="_blank" rel="noopener noreferrer">Advances in Continuous and Discrete Models</a>]
           <br>
