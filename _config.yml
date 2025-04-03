@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : 'Cheng (ChiEnn) Cheng'
+title                    : 'PEIQIANG'
 title_separator          : "-"
 subtitle                 :  # site tagline that appears below site title in masthead
-name                     : 'ChiEnn Cheng'
+name                     : 'Peiqiang Yin'
 description              : "I am a master student  ."
 url                      : 'https://chingycheng.github.io' # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : '/' # the subpath of your site, e.g. "/blog"
@@ -135,12 +135,12 @@ footer:
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   # url:
-    - label: "Twitter"
-      icon: "fab fa-twitter"
-      url: https://twitter.com/YuxiCheng2
+   # - label: "Twitter"
+   #   icon: "fab fa-twitter"
+    #  url: https://twitter.com/YuxiCheng2
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: https://github.com/ChingyCheng
+      url: https://github.com/pq.yin
     # - label: "GitLab"
     #   icon: "fab fa-fw fa-gitlab"
     #   url: 
@@ -149,10 +149,10 @@ footer:
     #   # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: https://www.instagram.com/chiennchan22/
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: hhttps://www.facebook.com/ChiEnnChan22/
+      url: https://www.instagram.com/yyypq29/
+    #- label: "Facebook"
+     # icon: "fab fa-fw fa-facebook-square"
+     # url: hhttps://www.facebook.com/ChiEnnChan22/
 
 
 # Reading Files
@@ -293,6 +293,6 @@ defaults:
     comments:
       provider: "disqus"
       disqus:
-        shortname: "ChiEnn Cheng"
+        shortname: "Yin"
       share: true
       related: true
