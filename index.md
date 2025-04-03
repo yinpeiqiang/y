@@ -4,9 +4,8 @@ layout: splash
 permalink: /
 ---
 
-![Chingy Cheng](./images/profile.JPG)
+![Chingy Cheng](./images/profile.jpg)
 {:style="float: right; padding: 30px; max-width: 30%;"}
-
 Hi there! Welcome to my home page. 
 
 I’m Peiqiang Yin, an sport researcher with a deep interest in sport talent development.I research how football environments affect youth talent development—especially how things like coaching, resources, and family support shape young athletes' growth. I use quantitative tools to compare different systems across countries and help design better, evidence-based programs.
