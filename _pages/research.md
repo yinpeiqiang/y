@@ -22,7 +22,7 @@ I am deeply interested in talent development. I believe that machine learning an
         <td style="padding:20px;width:25%;vertical-align:middle">
           <div>
             <!-- Updated Image Path -->
-            <img src='/images/DINNs.jpg' width="160">
+            <img src='/images/tde.png' width="160">
           </div>
         </td>
         <td style="padding:20px;width:75%;vertical-align:middle">
