@@ -15,7 +15,7 @@ Currently, I'm pursuing a Master of Sports Sicience at the Facuty of Sport & Exe
 
 If you have any questions, please feel free to [reach out](mailto:yinpeiqiang29@gmail.com) to me. I believe communication is the foundation of academic progress.
 ## Recent News
-last updated: April 02ed, 2025
+last updated: April 02nd, 2025
 
 - The research project I led during my master’s program, [The key factors of talent development environment for campus football athletes in China](https://www.tandfonline.com/doi/full/10.1080/23311886.2024.2431590), has been published for the **Cogent Social Sciences**.
 
