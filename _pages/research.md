@@ -29,11 +29,6 @@ I am deeply interested in talent development. I believe that machine learning an
           <p style="font-family:'Lato',Verdana,Helvetica,sans-serif; font-size:14px;font-weight:700">
             A quantitative approach was used to measure environmental perceptions of Chinese school football players using the TDEQ-5.
           </p>
-          <div class="skills">
-            <span class="skill">DNN</span>
-            <span class="skill">SEIRV</span>
-            <span class="skill">DINNs</span>
-          </div>
           <strong>Peiqiang Yin</strong>, Mohd Firdaus Abdullah & Mohamad Faithal Hassan
           <br>
           <em>Scientific Reports</em>, 2025.
